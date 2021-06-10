@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @starkexpo42
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chandan Kumar 
+- 👀 I’m interested in web Developing.
+- 🌱 I’m currently learning HTML | CSS | JS
+- 💞️ I’m looking to collaborate on Chrome.
+- 📫 Chandankumarjarvis@gmail.com
 
 <!---
 starkexpo42/starkexpo42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
