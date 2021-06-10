@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chandan Kumar 
 - 👀 I’m interested in web Developing.
 - 🌱 I’m currently learning HTML | CSS | JS
-- 💞️ I’m looking to collaborate on Chrome.
+- 💞️ I’m looking to collaborate on my Futuristic website.
 - 📫 Chandankumarjarvis@gmail.com
 
 <!---
